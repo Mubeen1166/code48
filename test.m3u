@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1
+ tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch620_425_305",nowsport1
+https://raw.githubusercontent.com/Mubeen1166/code48/refs/heads/main/nowsport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png",samrujlok
+https://raw.githubusercontent.com/Mubeen1166/code48/refs/heads/main/samrujlok.m3u8
