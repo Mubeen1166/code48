@@ -1,1 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
 
+#EXT-X-STREAM-INF:BANDWIDTH=1500001,NAME="1"
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:C0:1C:74&stream=12855&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:C0:1C:74&stream=238&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:C0:1C:74&stream=32842&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:C0:1C:74&stream=250665&extension=m3u8
